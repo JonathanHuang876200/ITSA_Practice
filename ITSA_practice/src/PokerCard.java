@@ -79,7 +79,6 @@ public class PokerCard {
 			diamondNum.clear();
 			clubNum.clear();
 			System.out.println();
-
 		}
 
 	}
